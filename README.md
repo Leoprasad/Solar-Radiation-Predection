@@ -1,1 +1,2 @@
 # Solar-Radiation-Predection
+The project aims to predict solar radiation levels by utilizing a Kaggle dataset that anticipates solar radiation levels based on meteorological characteristics such as temperature, humidity, wind direction, and speed. It includes preprocessing the data, exploratory data analysis, ensemble methods like XGBoost and AdaBoost, and regression approaches like naive Bayes and decision trees. To determine which algorithm performs best, metrics such as RMSE, MSE, and MPE are used to analyze the models.
